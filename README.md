@@ -1,2 +1,2 @@
 # projectgroup13_chat
-Grroup Chat 
+Group Chat 
