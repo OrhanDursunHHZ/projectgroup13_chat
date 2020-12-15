@@ -4,3 +4,4 @@ In this study project we will implement a distributed chat application with mult
 
 Information sharing takes place in various everyday situations, for example talking to a friend about the US election results or some homework you were given. Electronic communication has become the fastest and most used method of communication nowadays. For our project we decided to implement a group chat application, where users can send messages to a group and receive messages from other participants of the group too. The system will only support one group. In the following capture we will describe our approach to implementation. 
 
+![Client Server Architecture](https://user-images.githubusercontent.com/65391937/102269556-1858b400-3f1d-11eb-92af-8bb1de6b62c6.png)
